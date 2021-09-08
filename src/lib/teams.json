@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 1,
+    "name": "FC Barcelona",
+    "logo": "../assets/images/fcb.png",
+    "votes": 0
+  },
+  {
+    "_id": 2,
+    "name": "Juventus F.C.",
+    "logo": "../assets/images/ju2.png",
+    "votes": 0
+  },
+  {
+    "_id": 3,
+    "name": "Manchester United F.C.",
+    "logo": "../assets/images/mu.png",
+    "votes": 0
+  }
+]
